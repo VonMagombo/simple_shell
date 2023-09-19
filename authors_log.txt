@@ -1,0 +1,89 @@
+commit d81b4b4dd3ff29604d53aedb5daad2b86e7891df
+Author: Mia-Tee <tanyatsekenie@gmail.com>
+Date:   Tue Sep 19 11:32:18 2023 -0700
+
+    simple shell project
+
+commit d2824f0fe69ab89db5608b421dd302b3e320010e
+Author: Mia-Tee <tanyatsekenie@gmail.com>
+Date:   Tue Sep 19 10:56:55 2023 -0700
+
+    simple shell
+
+commit fb35d3fe306a77bb140e9b4227826f9c3c6e76a6
+Author: Mia-Tee <tanyatsekenie@gmail.com>
+Date:   Tue Sep 19 09:52:55 2023 -0700
+
+    environ
+
+commit bb60039e123d8206a1ab7d2a61285ad7c93159e5
+Author: Mia-Tee <tanyatsekenie@gmail.com>
+Date:   Tue Sep 19 09:51:18 2023 -0700
+
+    error handlers
+
+commit 1908f6e8ddfc09ee20576bdbab93d869b81f6a10
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 16:01:48 2023 +0200
+
+    setter.c
+
+commit c6797e09d5fadab30a38fb4bd2b812b7484d5cb6
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 16:01:23 2023 +0200
+
+    parser.c
+
+commit 1e3ad19cc879b54718bebc36b6f17f76e957daac
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 16:00:28 2023 +0200
+
+    the_tokenizer
+
+commit 2427b33beaf89d4158b38bdf983bca7c436d25b3
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:59:50 2023 +0200
+
+    the loop.c
+
+commit 8ed9ac2c5e934f5a488c571e4a651ac6744eb3fa
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:57:47 2023 +0200
+
+    vars.c
+
+commit 3a13a2d9a0b605b49a945df14b95233d9e898706
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:56:12 2023 +0200
+
+    outputHandler.c
+
+commit c6d64736109aa859c5bd427b383d8dfb4c0da536
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:55:21 2023 +0200
+
+    memory.c
+
+commit cb1f92e8a1fe271af0ef41fbfdd4747299741cb1
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:53:55 2023 +0200
+
+    main.c
+
+commit 70ec02e665de94fcf61c3b2547659ae553c4626e
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:53:09 2023 +0200
+
+    linked_lists2.c
+
+commit 826c83686adc89b9fa41abfef847dd855ae1bedf
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:47:16 2023 +0200
+
+    header file
+
+commit 7699d715678b797723694e3629bd60414cdaeb98
+Author: VonMagombo <mvmagombo@gmail.com>
+Date:   Tue Sep 19 15:45:38 2023 +0200
+
+    readme file
