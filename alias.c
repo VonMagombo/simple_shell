@@ -4,7 +4,7 @@
  * reset_alias - sets alias to string
  * @data: parameter struct
  * @str: string alias
- * Return: always 0 on success otherwise, 1 
+ * Return: always 0 on success otherwise, 1
  */
 int reset_alias(pass_args_t *data, char *str)
 {
@@ -45,7 +45,7 @@ int alias_setter(pass_args_t *data, char *str)
 /**
  * print_alias - prints an alias string
  * @node: alias node
- * Return: 0 on success otherwise, 1 
+ * Return: 0 on success otherwise, 1
  */
 int print_alias(list_t *node)
 {
@@ -65,7 +65,7 @@ int print_alias(list_t *node)
 }
 /**
  * Custom_cd - changes the current directory
- * @data: structure containing potential arguments. 
+ * @data: structure containing potential arguments.
  * Return: Always 0
  */
 int Custom_cd(pass_args_t *data)

@@ -42,7 +42,7 @@ int putchar_error(char c)
  * fhand_put - writes the character c to given fhand
  * @c: character to print
  * @fd: file descriptor to write to
- * Return: On success 0, otherwise -1 
+ * Return: On success 0, otherwise -1
  */
 int fhand_put(char c, int fd)
 {

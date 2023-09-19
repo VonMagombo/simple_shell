@@ -55,10 +55,10 @@ ssize_t getInput(pass_args_t *data)
 		return (-1);
 	if (len)
 	{
-		j = i; 
-		ptr = buf + i; 
+		j = i;
+		ptr = buf + i;
 
-		while (j < len) 
+		while (j < len)
 		{
 			if (chain_deli(data, buf, &j))
 				break;
@@ -68,12 +68,12 @@ ssize_t getInput(pass_args_t *data)
 		i = j + 1;
 		if (i >= len)
 		{
-			i = len = 0; 
+			i = len = 0;
 			data->buffer_type = _NORMAL;
 		}
 
 		*buff = ptr;
-		return (strlen(ptr)); 
+		return (strlen(ptr));
 	}
 
 	*buff = buf;
