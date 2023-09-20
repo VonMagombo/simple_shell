@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * chain_buffer - buffers chained commands
- * @data: parameter struct
+ * @data: parameters struct
  * @buf: address of buffer
  * @len: address of len var
  * Return: bytes read
