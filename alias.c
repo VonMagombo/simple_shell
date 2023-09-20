@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * reset_alias - sets alias to string
+ * reset_alias - sets the alias to string
  * @data: parameter struct
  * @str: string alias
  * Return: always 0 on success otherwise, 1
