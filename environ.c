@@ -70,7 +70,7 @@ int Custom_unsetenv(pass_args_t *data)
 
 /**
  * env_list_populater - populates environment linked list
- * @data: structure with potential arguments.
+ * @data: structures with potential arguments.
  * Return: Always 0
  */
 int env_list_populater(pass_args_t *data)
