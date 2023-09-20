@@ -30,7 +30,7 @@ int seek_builtin(pass_args_t *data)
 
 /**
  * _find - finds a command in PATH
- * @data: the parameter & return data struct
+ * @data: parameter & return data struct
  * Return: void
  */
 void _find(pass_args_t *data)
